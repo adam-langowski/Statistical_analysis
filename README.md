@@ -10,8 +10,10 @@
 Należy zwrócić uwagę na wersję R – 4.2.0. 
 Plik przykladoweDane-Projekt.csv jest argumentem przekazywanym do programu.
 
-    W efekcie poprawnego zadziałania programu w folderze ze skryptem pojawiają się pliki: 
+   W efekcie poprawnego zadziałania programu w folderze ze skryptem pojawiają się pliki: 
+
 •	plik Projekt_skrypt.Rout (który możemy odczytać dowolnym edytorem tekstowym) – przechowuje on wszystkie wyniki działania programu oraz 
+
 •	plik Rplots.pdf prezentujący wszystkie wykresy wykonane na potrzeby analizy danych
  
 
